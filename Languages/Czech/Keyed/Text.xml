@@ -1,102 +1,106 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <LanguageData>
 
-	<PositioningEnabledTitle>Custom mouse positioning</PositioningEnabledTitle>
-	<PositioningEnabledExplained>Enables combat positioning for your mouse clicks/drags (see settings below)</PositioningEnabledExplained>
+	<PositioningEnabledTitle>Vlastní polohování myši</PositioningEnabledTitle>
+	<PositioningEnabledExplained>Povoluje bojové polohování pro kliknutí/tažení myší (viz nastavení níže)</PositioningEnabledExplained>
 
 	<AchtungModifierTitle>Achtung! key</AchtungModifierTitle>
-	<AchtungModifierExplained>Holding this key will Force Draft colonists when they're given Move or Move-in-Formation commands.
-When held it will allow the selected colonists to be moved in their current formation at your cursor by holding and dragging the right mouse button. Once the right mouse button is held the Achtung! Key may be released.
-The formation can be rotated using Q and E</AchtungModifierExplained>
+	<AchtungModifierExplained>Podržením této klávesy vynutíte draftování kolonistů, když jim zadáte příkaz Přesun nebo Přesun ve formaci.Při jejím podržení umožní přesun vybraných kolonistů v jejich aktuální formaci u kurzoru podržením a tažením pravého tlačítka myši. Jakmile je pravé tlačítko myši podrženo, je na obrazovce Achtung! Klávesu lze uvolnit.Formaci lze otáčet pomocí kláves Q a E</AchtungModifierExplained>.
 
-	<ForceCommandMenuModeTitle>Context Menu Mode</ForceCommandMenuModeTitle>
-	<ForceCommandMenuModeExplained>Auto = normal behavior (draft status decides)\nShow Menu = Hold key for context menu\nSet Position = Hold key to order to position</ForceCommandMenuModeExplained>
-	<ForceCommandMenuKeyTitle>Context Menu Key</ForceCommandMenuKeyTitle>
+	<ForceCommandMenuModeTitle>Režim kontextové nabídky</ForceCommandMenuModeTitle>
+	<ForceCommandMenuModeExplained>Auto = normální chování (rozhoduje stav návrhu)\nShow Menu = podržení klávesy pro kontextovou nabídku\nSet Position = podržení klávesy pro příkaz k nastavení pozice</ForceCommandMenuModeExplained>
+	<ForceCommandMenuKeyTitle>Klávesa kontextového menu</ForceCommandMenuKeyTitle>
 
-	<ForcedCommandState>Ordered to work until done.</ForcedCommandState>
+	<ForcedCommandState>Přikázáno pracovat, dokud není hotovo.</ForcedCommandState>
 
-	<ForceMenuButtonText>Force</ForceMenuButtonText>
+	<ForceMenuButtonText>Vykonat</ForceMenuButtonText>
 
-	<IncreaseForceRadius>Increase Radius</IncreaseForceRadius>
-	<IncreaseForceRadiusDesc>Increase the search distance for forced work (current radius is {0})</IncreaseForceRadiusDesc>
-	<DecreaseForceRadius>Decrease Radius</DecreaseForceRadius>
-	<DecreaseForceRadiusDesc>Decrease the search distance for forced work (current radius is {0})</DecreaseForceRadiusDesc>
-	<BuildingSmart>Building Smart</BuildingSmart>
-	<BuildingSmartDesc>Building smart prevents holes or getting stuck but is slower and always builds around your start location</BuildingSmartDesc>
+	<IncreaseForceRadius>Zvětšit poloměr</IncreaseForceRadius>.
+	<IncreaseForceRadiusDesc>Zvětšení vzdálenosti hledání pro vynucenou práci (aktuální poloměr je {0})</IncreaseForceRadiusDesc>
+	<DecreaseForceRadius>Zmenšení poloměru</DecreaseForceRadius>
+	<DecreaseForceRadiusDesc>Zmenšení vyhledávací vzdálenosti pro vynucenou práci (aktuální poloměr je {0})</DecreaseForceRadiusDesc>
+	<BuildingSmart>Budova Smart</BuildingSmart>
+	<BuildingSmartDesc>Building Smart zabraňuje vzniku děr nebo uvíznutí, ale je pomalejší a staví vždy kolem výchozího místa</BuildingSmartDesc>
 
-	<Notes>Notes</Notes>
-	<Note1>When using Achtung the context menu contains both: drafted and undrafted commands</Note1>
-	<Note2>When positioning undrafted colonists along a line, a left click drafts colonists to their current positions</Note2>
+	<Notes>Poznámky</Notes>
+	<Note1>Při použití funkce Achtung obsahuje kontextová nabídka oba příkazy: navržený i nenavržený</Note1>.
+	<Note2>Při umisťování nedraftovaných kolonistů podél linie se kliknutím levým tlačítkem myši draftují kolonisté na aktuální pozici</Note2>.
 
 	<CommandMenuModeOptionAuto>Auto</CommandMenuModeOptionAuto>
-	<CommandMenuModeOptionPressForMenu>Show Menu</CommandMenuModeOptionPressForMenu>
-	<CommandMenuModeOptionPressForPosition>Set Position</CommandMenuModeOptionPressForPosition>
+	<CommandMenuModeOptionPressForMenu>Zobrazit nabídku</CommandMenuModeOptionPressForMenu>
+	<CommandMenuModeOptionPressForPosition>Nastavení polohy</CommandMenuModeOptionPressForPosition>
 
-	<AchtungModKeyOptionNone>Disabled</AchtungModKeyOptionNone>
+	<AchtungModKeyOptionNone>Zakázáno</AchtungModKeyOptionNone>
 	<AchtungModKeyOptionAlt>Alt</AchtungModKeyOptionAlt>
 	<AchtungModKeyOptionCtrl>Ctrl</AchtungModKeyOptionCtrl>
 	<AchtungModKeyOptionShift>Shift</AchtungModKeyOptionShift>
 	<AchtungModKeyOptionMeta>Win/Cmd</AchtungModKeyOptionMeta>
 
-	<BreakLevelTitle>Mental break level for jobs</BreakLevelTitle>
-	<BreakLevelExplained>Set the break level at which a colonist stop a given Achtung job</BreakLevelExplained>
-	<BreakLevelOptionNone>Ignore</BreakLevelOptionNone>
+	<BreakLevelTitle>Úroveň mentální přestávky pro úlohy</BreakLevelTitle>
+	<BreakLevelExplained>Určení úrovně přestávky, při které kolonista zastaví danou úlohu Achtung</BreakLevelExplained>.
+	<BreakLevelOptionNone>Ignorovat</BreakLevelOptionNone>
 	<BreakLevelOptionMinor>Minor</BreakLevelOptionMinor>
-	<BreakLevelOptionMajor>Major</BreakLevelOptionMajor>
-	<BreakLevelOptionAlmostExtreme>Almost extreme</BreakLevelOptionAlmostExtreme>
-	<BreakLevelOptionExtreme>Extreme</BreakLevelOptionExtreme>
+	<BreakLevelOptionMajor>Důležitý</BreakLevelOptionMajor>
+	<BreakLevelOptionAlmostExtreme>Téměř extrémní</BreakLevelOptionAlmostExtreme>
+	<BreakLevelOptionExtreme>Extrémní</BreakLevelOptionExtreme>
 
-	<HealthLevelTitle>Health status for jobs</HealthLevelTitle>
-	<HealthLevelExplained>Set the health status at which a colonist stop a given Achtung job</HealthLevelExplained>
-	<HealthLevelOptionNone>Ignore</HealthLevelOptionNone>
-	<HealthLevelOptionShouldBeTendedNow>Should be tended now</HealthLevelOptionShouldBeTendedNow>
-	<HealthLevelOptionPrefersMedicalRest>Medical care</HealthLevelOptionPrefersMedicalRest>
-	<HealthLevelOptionNeedsMedicalRest>Needs medical rest</HealthLevelOptionNeedsMedicalRest>
-	<HealthLevelOptionInPainShock>In pain shock</HealthLevelOptionInPainShock>
+	<HealthLevelTitle>Zdravotní stav pracovních míst</HealthLevelTitle>
+	<HealthLevelExplained>Nastavení zdravotního stavu, při kterém kolonista zastaví danou úlohu Achtung</HealthLevelExplained>.
+	<HealthLevelOptionNone>Ignorovat</HealthLevelOptionNone>
+	<HealthLevelOptionShouldBeTendedNow>Měl by být ošetřován nyní</HealthLevelOptionShouldBeTendedNow>.
+	<HealthLevelOptionPrefersMedicalRest>Medicínská péče</HealthLevelOptionPrefersMedicalRest>
+	<HealthLevelOptionNeedsMedicalRest>Potřebuje lékařský odpočinek</HealthLevelOptionNeedsMedicalRest>
+	<HealthLevelOptionInPainShock>Je v šoku z bolesti</HealthLevelOptionInPainShock>
 
-	<IgnoreForbiddenTitle>Ignore forbidden things</IgnoreForbiddenTitle>
-	<IgnoreForbiddenExplained>Ignores forbidden (red crossed) items when doing forced work</IgnoreForbiddenExplained>
-	<IgnoreRestrictionsTitle>Ignore restricted areas</IgnoreRestrictionsTitle>
-	<IgnoreRestrictionsExplained>Ignore zone restrictions when doing forced work</IgnoreRestrictionsExplained>
-	<IgnoreAssignmentsTitle>Ignore work type assignments</IgnoreAssignmentsTitle>
-	<IgnoreAssignmentsExplained>Ignores unset work priorities</IgnoreAssignmentsExplained>
+	<IgnoreForbiddenTitle>Ignorovat zakázané věci</IgnoreForbiddenTitle>Překážka v pohybu.
+	<IgnoreForbiddenExplained>Ignoruje zakázané (červeně přeškrtnuté) předměty při nucené práci</IgnoreForbiddenExplained>.
+	<IgnoreRestrictionsTitle>Ignoruje zakázané oblasti</IgnoreRestrictionsTitle>.
+	<IgnoreRestrictionsExplained>Ignorovat omezení zón při provádění vynucených prací</IgnoreRestrictionsExplained>
+	<IgnoreAssignmentsTitle>Ignorovat přiřazení typu práce</IgnoreAssignmentsTitle>
+	<IgnoreAssignmentsExplained>Ignoruje nenastavené priority práce</IgnoreAssignmentsExplained>.
 
-	<BuildingSmartDefaultTitle>Smart building is on for new Achtung! jobs</BuildingSmartDefaultTitle>
-	<BuildingSmartDefaultExplained>Sets the default for how new jobs choose their build order</BuildingSmartDefaultExplained>
+	<BuildingSmartDefaultTitle>Chytré budování je zapnuto pro nové úlohy Achtung!</BuildingSmartDefaultTitle>.
+	<BuildingSmartDefaultExplained>Nastavuje výchozí způsob výběru pořadí sestavování nových úloh</BuildingSmartDefaultExplained>.
 
-	<WorkMarkersTitle>Force work markers</WorkMarkersTitle>
-	<WorkMarkersExplained>Forced work is displayed with small markers</WorkMarkersExplained>
-	<WorkMarkersOptionAnimated>Animated</WorkMarkersOptionAnimated>
-	<WorkMarkersOptionStatic>Static</WorkMarkersOptionStatic>
-	<WorkMarkersOptionOff>Off</WorkMarkersOptionOff>
+	<WorkMarkersTitle>Zadání značek práce</WorkMarkersTitle>
+	<WorkMarkersExplained>Vynucená práce se zobrazuje pomocí malých značek</WorkMarkersExplained>.
+	<WorkMarkersOptionAnimated>Animované</WorkMarkersOptionAnimated>
+	<WorkMarkersOptionStatic>Statický</WorkMarkersOptionStatic>
+	<WorkMarkersOptionOff>Vypnuto</WorkMarkersOptionOff>
 
-	<MaxForcedItemsTitle>Maximum forced items</MaxForcedItemsTitle>
-	<MaxForcedItemsExplained>Restricts the number of forced items for slower computers</MaxForcedItemsExplained>
-	<MaxForcedItemsUnlimited>Unlimited</MaxForcedItemsUnlimited>
+	<MaxForcedItemsTitle>Maximální počet vynucených položek</MaxForcedItemsTitle>
+	<MaxForcedItemsExplained>Omezuje počet vynucených položek pro pomalejší počítače</MaxForcedItemsExplained>.
+	<MaxForcedItemsUnlimited>Neomezeno</MaxForcedItemsUnlimited>
 
-	<JobInterruptedLabel>Cancelled: {0}</JobInterruptedLabel>
+	<DefaultRadiusTitle>Práce s výchozím poloměrem</DefaultRadiusTitle>
+	<DefaultRadiusExplained></DefaultRadiusExplained>Vysvětlení výchozího poloměru
+	<DefaultRadiusMax>Maximální(40)</DefaultRadiusMax>
+
+
+
+	<JobInterruptedLabel>Zrušeno: {0}</JobInterruptedLabel>
 	<JobInterruptedBreakdown>{0}: {1}</JobInterruptedBreakdown>
-	<JobInterruptedBadHealth>{0} is in bad shape</JobInterruptedBadHealth>
+	<JobInterruptedBadHealth>{0} je ve špatném stavu</JobInterruptedBadHealth>
 
-	<CleanRoomLabel>Clean this room</CleanRoomLabel>
-	<CleanRoomInfoText>Cleaning room thoroughly</CleanRoomInfoText>
-	<CleanRoomDescription>Clean a room until it is completely clean</CleanRoomDescription>
-	<CleanRoomReport>Cleaning{0}: {1}</CleanRoomReport>
+	<CleanRoomLabel>Uklidit tuto místnost</CleanRoomLabel>
+	<CleanRoomInfoText>Důkladně uklízíme místnost</CleanRoomInfoText>
+	<CleanRoomDescription>Uklízí místnost, dokud není úplně čistá</CleanRoomDescription>
+	<CleanRoomReport>Úklid{0}: {1}</CleanRoomReport>
 
-	<FireFightLabel>Fight fire</FireFightLabel>
-	<FireFightInfoText>Fighting a fire</FireFightInfoText>
-	<FireFightDescription>Fights a fire (even outside home zone)</FireFightDescription>
-	<FireFightReport>Fighting fire: {0}</FireFightReport>
+	<FireFightLabel>Hasit oheň</FireFightLabel>
+	<FireFightInfoText>Hasím požár</FireFightInfoText>
+	<FireFightDescription>Hasí požár (i mimo domovskou zónu)</FireFightDescription>
+	<FireFightReport>Hasí požár: {0}</FireFightReport>
 
-	<SowZoneLabel>Sow this zone/room</SowZoneLabel>
-	<SowZoneInfoText>Sowing zone/room</SowZoneInfoText>
-	<SowZoneDescription>Sow a growing zone or room until it is completely sowed</SowZoneDescription>
-	<SowZoneReport>Sowing{0}: {1}</SowZoneReport>
+	<SowZoneLabel>Odkryje tuto zónu/pokoj</SowZoneLabel>
+	<SowZoneInfoText>Vysévám zónu/pokoj</SowZoneInfoText>
+	<SowZoneDescription>Výsev pěstební zóny nebo místnosti, dokud není zcela oseta</SowZoneDescription>
+	<SowZoneReport>Výsev{0}: {1}</SowZoneReport>
 
-	<AlreadyDoing>(Job #{0})</AlreadyDoing>
+	<AlreadyDoing>(Úloha #{0})</AlreadyDoing>
 
-	<CouldNotFindMoreForcedWork>{0} could not find more forced work. The remaining work is most likely reserved or not accessible.</CouldNotFindMoreForcedWork>
-	<NoForcedWork>No forced work</NoForcedWork>
-	<ForcedWorkWasInterrupted>Forced work of {0} was interrupted.</ForcedWorkWasInterrupted>
+	<CouldNotFindMoreForcedWork>{0} se nepodařilo najít další nucenou práci. Zbývající práce je s největší pravděpodobností rezervována nebo není přístupná.</CouldNotFindMoreForcedWork>
+	<NoForcedWork>Není žádná nucená práce</NoForcedWork>
+	<ForcedWorkWasInterrupted>Vynucená práce {0} byla přerušena.</ForcedWorkWasInterrupted>
 
 </LanguageData>
