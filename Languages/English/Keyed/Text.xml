@@ -74,6 +74,12 @@ The formation can be rotated using Q and E</AchtungModifierExplained>
 	<MaxForcedItemsExplained>Restricts the number of forced items for slower computers</MaxForcedItemsExplained>
 	<MaxForcedItemsUnlimited>Unlimited</MaxForcedItemsUnlimited>
 
+	<DefaultRadiusTitle>Default Radius Work</DefaultRadiusTitle>
+	<DefaultRadiusExplained></DefaultRadiusExplained>
+	<DefaultRadiusMax>Maximum(40)</DefaultRadiusMax>
+
+
+
 	<JobInterruptedLabel>Cancelled: {0}</JobInterruptedLabel>
 	<JobInterruptedBreakdown>{0}: {1}</JobInterruptedBreakdown>
 	<JobInterruptedBadHealth>{0} is in bad shape</JobInterruptedBadHealth>

@@ -5,7 +5,9 @@
 	<PositioningEnabledExplained>Povoluje bojové polohování pro kliknutí/tažení myší (viz nastavení níže)</PositioningEnabledExplained>
 
 	<AchtungModifierTitle>Achtung! key</AchtungModifierTitle>
-	<AchtungModifierExplained>Podržením této klávesy vynutíte draftování kolonistů, když jim zadáte příkaz Přesun nebo Přesun ve formaci.Při jejím podržení umožní přesun vybraných kolonistů v jejich aktuální formaci u kurzoru podržením a tažením pravého tlačítka myši. Jakmile je pravé tlačítko myši podrženo, je na obrazovce Achtung! Klávesu lze uvolnit.Formaci lze otáčet pomocí kláves Q a E</AchtungModifierExplained>.
+	<AchtungModifierExplained>Podržením této klávesy vynutíte draftování kolonistů, když jim zadáte příkaz Přesun nebo Přesun ve formaci.
+	Při jejím podržení umožní přesun vybraných kolonistů v jejich aktuální formaci u kurzoru podržením a tažením pravého tlačítka myši. Jakmile je pravé tlačítko myši podrženo, je na obrazovce Achtung! Klávesu lze uvolnit.
+	Formaci lze otáčet pomocí kláves Q a E</AchtungModifierExplained>.
 
 	<ForceCommandMenuModeTitle>Režim kontextové nabídky</ForceCommandMenuModeTitle>
 	<ForceCommandMenuModeExplained>Auto = normální chování (rozhoduje stav návrhu)\nShow Menu = podržení klávesy pro kontextovou nabídku\nSet Position = podržení klávesy pro příkaz k nastavení pozice</ForceCommandMenuModeExplained>

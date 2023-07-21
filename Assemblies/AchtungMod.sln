@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB9-8B4A-11D0-8D11-00A0C91BC942}") = "AchtungMod", "AchtungMod.dll", "{B424D6A2-9F9B-4F8B-836C-E452EA9D9F0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Any CPU = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B424D6A2-9F9B-4F8B-836C-E452EA9D9F0A}.Default|Any CPU.ActiveCfg = Default|Any CPU
+		{B424D6A2-9F9B-4F8B-836C-E452EA9D9F0A}.Default|Any CPU.Build.0 = Default|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EE9BFEA-25DE-4EA8-AFC8-A2A95CE06411}
+	EndGlobalSection
+EndGlobal

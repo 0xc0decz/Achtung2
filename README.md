@@ -1,4 +1,4 @@
-## RimWorld Achtung! Mod [3.5.2] [CZ VERZE 0.1]
+## RimWorld Achtung! Mod [3.5.2]
 Velte svým kolonistům jako šéf!
 
 ![alt text](https://raw.githubusercontent.com/pardeike/RimWorld-Achtung-Mod/master/About/Preview.png "Achtung! Mod")
