@@ -1,4 +1,4 @@
-## RimWorld Achtung! Mod [3.5.2]
+## RimWorld Achtung! Mod [3.5.2] [CZ VERZE 0.1]
 Velte svým kolonistům jako šéf!
 
 ![alt text](https://raw.githubusercontent.com/pardeike/RimWorld-Achtung-Mod/master/About/Preview.png "Achtung! Mod")
@@ -46,7 +46,7 @@ Výběr příkazu "Osít zónu/pokoj" zajistí, že vybraná zóna nebo všechny
 
 ---
 
-Nastavení #####
+##### Nastavení 
 
 Achtung používá výchozí způsob přístupu k nastavení modů. Najdete zde přepínače pro zapnutí/vypnutí určitých funkcí a můžete si změnit výchozí klávesy podle svých představ.
 
@@ -70,7 +70,7 @@ Achtung! Mod pracuje s RimWorld B18 a bude aktualizován synchronně s RimWorld.
 
 ---
 
-Instalace #####
+##### Instalace 
 
 Upřednostňovaným způsobem instalace hry Achtung! je použití služby Steam Workshop a přihlášení se k odběru hry Achtung! Mod aktualizace [here](http://steamcommunity.com/sharedfiles/filedetails/?id=730936602&searchtext=achtung). Tím se automaticky aktualizuje, kdykoli vyjde nová verze.
 
